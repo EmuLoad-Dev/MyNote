@@ -9,3 +9,14 @@
 ```bash
 7z x -p<密码> <压缩文件路径> -o<解压目标目录>
 ```
+
+# MyBase
+
+修改时间戳持续延长试用期：
+
+```
+C:\Users\{用户名}\Mybase8.ini
+```
+
+删除关键词为 FirstUseOn.UserLic.App 的这一行。
+
