@@ -52,7 +52,7 @@ ssh-keygen -t ed25519 -C "your_email@example.com" -f {ssh主目录}/.ssh/id_ed25
 
 `config` 示例如下：
 
-```
+```ini
 # 默认的github配置，使用第一个密钥
 Host github.com
     HostName github.com
