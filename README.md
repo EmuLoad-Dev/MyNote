@@ -19,8 +19,16 @@
 
 修改时间戳持续延长试用期：
 
+Windows 下一般在：
+
 ```
 C:\Users\{用户名}\Mybase8.ini
+```
+
+Mac 下一般在：
+
+```
+~\Mybase8.ini
 ```
 
 删除关键词为 FirstUseOn.UserLic.App 的这一行。
