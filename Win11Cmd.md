@@ -3,3 +3,9 @@
 ```
 certutil -hashfile README.md SHA256
 ```
+
+> winget 安装 ffmpeg
+
+```
+winget install "FFmpeg (Essentials Build)"
+```
