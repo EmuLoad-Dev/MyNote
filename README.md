@@ -55,4 +55,15 @@ winget install GitHub.cli
 
 gh release download {资源tag名}
 
+# MarkDown
+
+## 用 html 标签指定图片尺寸
+
+否则用默认的图片展示会特别容易尺寸失控。
+
+```html
+<img src="https://bafkreicqzgxkfohyzgclz2mkbywlted25opyphj5yflz6n5zqjbxgg5k2y.pinme.dev/" alt="https://bxgg5k2y.pinit.eth.limo" width="320" />
+```
+
+
 
