@@ -65,5 +65,19 @@ gh release download {资源tag名}
 <img src="https://bafkreicqzgxkfohyzgclz2mkbywlted25opyphj5yflz6n5zqjbxgg5k2y.pinme.dev/" alt="https://bxgg5k2y.pinit.eth.limo" width="320" />
 ```
 
+# HP 电脑 打开 BIOS 启用 Hyper V
 
+在 OMEN by HP、Victus by HP、HP Spectre、HP ENVY 和 HP Pavilion 系列电脑上启用虚拟化技术
+
+按照以下步骤操作，在 OMEN by HP、Victus by HP、HP Spectre、HP ENVY 和 HP Pavilion 系列电脑上启用虚拟化技术。
+
+1. 启动计算机，然后立即按下 f10，打开 BIOS Setup。
+
+2. 使用箭头键选择配置选项卡，然后选择虚拟化技术。
+
+<img src="https://bafkreigby4w3w3jravarcmfvvlzllcq256gljvprpkhbvnoairyn63nsiy.pinme.dev/" alt="https://yn63nsiy.pinit.eth.limo" width="320" />
+
+3. 选择启用。
+
+4. 按 f10 保存设置并退出 BIOS Setup。
 
