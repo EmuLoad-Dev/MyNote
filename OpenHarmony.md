@@ -10,14 +10,13 @@
 
 开发语言 ArkTS，TypeScript 的扩展。
 
-# ArkUI
+# 审核条例要点
 
-onClick
+3.7 条例，相似应用。
 
-```typescript
-.onClick(() => {
-})
-```
+<img src="https://bafkreihgxcx2q5a7httifxvaxw5yvqbfc7bpsf3bvjhbhjcysekdyp2vxi.pinme.dev" alt="https://kdyp2vxi.pinit.eth.limo" width="320" />
+
+
 
 # Windows 11 开启鸿蒙模拟器失败的问题
 
