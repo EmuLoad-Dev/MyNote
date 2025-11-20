@@ -12,9 +12,13 @@
 
 # 审核条例要点
 
-3.7 条例，相似应用。
+## 3.7 条例，相似应用。
 
 <img src="https://bafkreihgxcx2q5a7httifxvaxw5yvqbfc7bpsf3bvjhbhjcysekdyp2vxi.pinme.dev" alt="https://kdyp2vxi.pinit.eth.limo" width="320" />
+
+## 注意事项
+
+<img src="https://bafkreifdxzdbkettrwqotyymkaenoxpyjk4n73e4luhmelcimhya63j7ce.pinme.dev" alt="https://ya63j7ce.pinit.eth.limo" width="320" />
 
 
 
