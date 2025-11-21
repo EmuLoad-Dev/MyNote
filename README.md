@@ -81,3 +81,7 @@ gh release download {资源tag名}
 
 4. 按 f10 保存设置并退出 BIOS Setup。
 
+# IPFS
+
+IPFS CID 链接拼接
+https://{CID}.ipfs.dweb.link/
