@@ -1,0 +1,24 @@
+name: 打个招呼 Hello World
+
+on:
+  schedule:
+    - cron: '0 9 * * *'     # 每天北京时间17点自动跑一次
+  workflow_dispatch:        # 允许手动点一下就跑
+
+jobs:
+  hello:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 第一步：把仓库代码拉下来
+        uses: actions/checkout@v4
+
+      - name: 第二步：创建 hello.txt 文件
+        run: echo "你好，我是机器人！今天是 $(date '+%Y年%m月%d日 %H点%M分')，我来打个招呼啦！" > hello.txt
+
+      - name: 第三步：把文件提交回去
+        run: |
+          git config user.name "机器人小助手"
+          git config user.email "robot@github.com"
+          git add hello.txt
+          git commit -m "机器人来打招呼啦 $(date '+%Y-%m-%d %H:%M')"
+          git push
